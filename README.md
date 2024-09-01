@@ -1,2 +1,2 @@
 # ERP_system
-erp system for storehouse
+Erp system for storehouse
